@@ -1,0 +1,5 @@
+/home/workspace/my_data/vitamins/vitamins_474.jpg 0
+/home/workspace/my_data/vitamins/vitamins_185.jpg 0
+/home/workspace/my_data/claritin/claritin_165.jpg 1
+/home/workspace/my_data/claritin/claritin_488.jpg 1
+/home/workspace/my_data/benadryl/benadryl_311.jpg 2
